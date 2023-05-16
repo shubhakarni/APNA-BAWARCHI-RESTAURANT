@@ -38,7 +38,9 @@
 
 
 /* Slider */
-
+.sliderimg{
+  filter: blur(2px);
+}
 .carousel-item{
   margin-top: 5px;
   width: 100%;
