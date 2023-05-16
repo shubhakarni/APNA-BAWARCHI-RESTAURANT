@@ -1,0 +1,31 @@
+.Container{
+    background-color: rgb(46, 56, 64);
+}
+.col-lg-6 p{
+    margin: 10px;
+    padding: 10px;
+    font-size: larger;
+    width: fit-content;
+    
+}
+h1{
+    color: white;
+}
+p{
+    color: white;
+}
+.col-lg-6 img{
+    margin: 10px;
+    padding: 10px;
+    height: 500px;
+    width: 745px;
+    border-radius: 20px;
+}
+.col-lg-7 img{
+    display: flex;
+    margin-right: auto;
+    justify-content: right;
+}
+.learnmorebtn:hover{
+    background-color: white;
+}
